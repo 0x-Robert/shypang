@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 -->
 # BackEnd</br>
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
-
+![MicroPython](https://img.shields.io/static/v1?style=for-the-badge&message=MicroPython&color=2B2728&logo=MicroPython&logoColor=FFFFFF&label=)
